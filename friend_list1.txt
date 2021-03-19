@@ -1,2 +1,13 @@
-A, B, C, D
-B, A, C, D, E
+A,C,F,G,H,I,T,V,W
+B,C,D,E,G,O,Q,W,X
+C,A,B,D,E,F,G,H,I,J,K,L,O,P,Q,R,S,T,V,W,X,Y,Z
+D,B,C,G,I,L,M,N,P,Q,S,U,V,X
+E,B,C,F,H,I,J,K,L,M,N,P,Q,R,T,V,W,Y,Z
+F,A,C,E,G,J,M,R,T,Z
+G,A,B,C,D,F,H,J,K,L,M,N,O,P,Q,S,T,U,W,Y,Z
+H,A,C,E,G,J,N,O,P,R,S,U,W,X
+I,A,C,D,E,J,L,N,P,Q,S,T,U,Y
+J,C,E,F,G,H,I,K,O,P,T,V
+K,C,E,G,J,L,R,S,W,X
+L,C,D,E,G,I,K,R,S,W
+M,D,E,F,G,O,Q,R,S,U,X,Y
